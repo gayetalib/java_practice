@@ -1,0 +1,7 @@
+- abstract : restricted class that cannot be used to create objects 
+  (restricted class that cannot be used to create objects)
+- interface : completely "abstract class" that is used to group related 
+   methods with empty bodies
+- javadoc filename.java :generer la documentation du fichier
+- finally s'excute qu'il ait exception ou pas
+- 
